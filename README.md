@@ -3,6 +3,6 @@
 *Click on the above GIF to see the webpage*
 ## Technologies used
 - HTML
-- SASS
+- SCSS
 - JavaScript
 
